@@ -46,7 +46,7 @@ Using IndexedDB, service workers and caching, this progressive web app lets busi
 
 ## *Screenshots*
 
-![Demo of Application Homepage](./public/img/)
+![Demo of Application Homepage](./public/img/ss_app.PNG)
 
 ## *Contact*
 
