@@ -20,7 +20,7 @@ Using IndexedDB, service workers and caching, this progressive web app lets busi
 
 <div align="center">
 
-![Application Usage Stats from DevTools](./public/img/ss_webstats.PNG)
+![Application Usage Stats from DevTools](./public/img/ss_webstats.png)
 </div>
 
 ## *Installation*
