@@ -1,5 +1,8 @@
-# Progressive Budget Tracker 💹
+<div align="center">
+
+# Progressive Budget Tracker 📈
 ![GitHub license](https://img.shields.io/badge/License-MIT-orange)
+</div>
 
 ### This progressive web app lets a user add expenses and deposits to their budget on the go, with or without a connection.
 
@@ -14,6 +17,11 @@
 ## *Description*
 
 Using IndexedDB, service workers and caching, this progressive web app lets business travellers add expenses and deposits to their budget on the go, with or without a network connection. Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important.
+
+<div align="center">
+
+![Application Usage Stats from DevTools](./public/img/ss_usage.PNG)
+</div>
 
 ## *Installation*
 
@@ -38,7 +46,7 @@ Using IndexedDB, service workers and caching, this progressive web app lets busi
 
 ## *Screenshots*
 
-![Demo of Homepage](./public/images/)
+![Demo of Application Homepage](./public/img/)
 
 ## *Contact*
 
