@@ -6,7 +6,7 @@ const FILES_TO_CACHE = [
   '/manifest.webmanifest',
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png',
-  'https://cdn.jsdelivr.net/npm/chart.js@2.8.0',
+  '/db.js',
 ];
 
 const STATIC_CACHE = "static-cache-v1";
