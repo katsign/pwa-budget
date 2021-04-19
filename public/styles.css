@@ -19,11 +19,11 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #ede2ed;
 }
 
 .error {
-  color: red;
+  color: coral;
 }
 
 .wrapper {
