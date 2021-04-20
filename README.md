@@ -3,7 +3,7 @@
 ![Logo](./public/icons/icon-120x120.png)
 
 # Progressive Budget Tracker
-![GitHub license](https://img.shields.io/badge/License-MIT-orange)
+![GitHub license](https://img.shields.io/badge/License-MIT-d8bfd8)
 
 #### 📍 [View Deployment on Heroku](https://katsign-budget-tracker.herokuapp.com/) 📍
 </div>
