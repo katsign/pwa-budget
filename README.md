@@ -1,6 +1,8 @@
 <div align="center">
 
-# Progressive Budget Tracker 📈
+![Logo](./public/icons/icon-120x120.png)
+
+# Progressive Budget Tracker
 ![GitHub license](https://img.shields.io/badge/License-MIT-orange)
 </div>
 
@@ -25,11 +27,27 @@ Using IndexedDB, service workers and caching, this progressive web app lets busi
 
 ## *Installation*
 
-### Navigate into the repository folder on your local machine and open the built-in terminal. You will need Node.js installed to run this application.
+### Local Clone
+
+#### Navigate into the repository folder on your local machine and open the built-in terminal. You will need Node.js installed to run this application.
 
 - On the command line, type `npm i` to pull the app's dependencies to your local.
 - Type `npm start` to run the application locally.
 - Navigate to `http://localhost:3000` to view the development server.
+
+### Installing the PWA for Devices
+
+#### For Desktop
+
+- Click the install icon in the browser navigator.
+- Confirm the download and the browser window will close, opening instead as a standalone app.
+
+#### For Mobile
+
+- Open the browser's `Share` tab.
+- Scroll down and tap `Add to Home screen`.
+- Confirm by tapping `Add`.
+- A shortcut will be added to the homescreen.
 
 ## *Usage*
 
