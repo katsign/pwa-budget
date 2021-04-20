@@ -1,6 +1,7 @@
 {
     "name": "Progressive Budget Tracker",
     "short_name": "Budget Tracker",
+    "description": "Track deposits and withdrawals on the go.",
     "icons": [
       {
         "src": "icons/icon-120x120.png",
